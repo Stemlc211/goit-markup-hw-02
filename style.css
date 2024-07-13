@@ -1,0 +1,48 @@
+:root{
+    --Cornflower:#E7E9FC;
+    --iris:#4D5AE5;
+    --navy-blue:#2E2F42;
+    --white:#FFFFFF;
+    -ms-layout-grid-type: #434455;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+nav{
+    width: 1440px;
+        height: 72px;
+        gap: 0px;
+        border: 1px 0px 0px 0px solid 10px var(--Cornflower);
+        opacity: 0px;
+        color: var(--white);
+        
+}
+
+.logo{
+    width: Hug (115px)px;
+        height: Fixed (24px)px;
+        top: 24px;
+        left: 156px;
+        gap: 0px;
+        opacity: 0px;
+}
+
+.list-logo{
+    width: Hug (261px)px;
+        height: Hug (24px)px;
+        top: 24px;
+        left: 347px;
+        gap: 40px;
+        opacity: 0px;
+        color: var(--navy-blue);
+}
+
+.link-logo{
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+}
