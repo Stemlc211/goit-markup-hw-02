@@ -81,7 +81,7 @@ width: Hug (261px)px;
     color: #404bbf;
 }
 
-.link-logo:active{
+.link-logo:focus{
     color: #404bbf;
 }
 
@@ -109,7 +109,7 @@ width: 153px;
     color: #404bbf;
 }
 
-.list-contacts:active{
+.list-contacts:focus{
     color: #404bbf;
 }
 
@@ -159,7 +159,7 @@ background-color: #404BBF;
 }
 
 
-.hero-button:active{
+.hero-button:focus{
     background-color: #404BBF;
 }
 
@@ -173,19 +173,11 @@ background-color: #404BBF;
 }
 
 .section-title{
-    width: 162px;
-        height: 40px;
-        top: 1136px;
-        left: 639px;
-        gap: 0px;
-        opacity: 0px;
-        font-size: 36px;
-        font-weight: 700;
-        line-height: 1.11;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
         letter-spacing: 0.02em;
-        text-align: center;
-        text-transform: capitalize;
-        color: var(--navy-blue);
+        color: #2e2f42;
     }
 
 .list-section{
