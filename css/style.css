@@ -14,20 +14,11 @@ body{
 }
 
 nav{
-    width: 1440px;
-        height: 72px;
-        gap: 0px;
-        border: 1px 0px 0px 0px ;
-        opacity: 0px;
         background-color: var(--white);
-        border-bottom: 1px solid #E7E9FC;
 }
 
 .logo{
-width: 44px;
-    height: 21px;
-    gap: 0px;
-    opacity: 0px;
+    
     font-family:"Raleway",sans-serif;
         font-size: 18px;
         font-weight: 700;
@@ -39,10 +30,6 @@ width: 44px;
 }
 
 .logo-text-2{
-    width: 71px;
-        height: 21px;
-        gap: 0px;
-        opacity: 0px;
         font-family:"Raleway",sans-serif;
             font-size: 18px;
             font-weight: 700;
@@ -52,20 +39,9 @@ width: 44px;
             color: var(--navy-blue);
 }
 
-.list-logo{
-width: Hug (261px)px;
-    height: Hug (24px)px;
-    top: 24px;
-    left: 347px;
-    gap: 40px;
-    opacity: 0px;
-}
+
 
 .link-logo{
-    width: 48px;
-        height: 24px;
-        gap: 0px;
-        opacity: 0px;
             font-size: 16px;
             font-weight: 500;
             line-height: 24px;
@@ -89,11 +65,6 @@ width: Hug (261px)px;
 
 
 .list-contacts{
-width: 153px;
-    height: 24px;
-    top: 24px;
-    left: 940px;
-    gap: 0px;
         font-size: 16px;
         font-weight: 400;
         line-height: 24px;
@@ -111,21 +82,10 @@ width: 153px;
 }
 
 .hero-image{
-    width: 1440px;
-        height: 600px;
-        top: 72px;
-        gap: 0px;
-        opacity: 0px;
         background-color: var(--navy-blue);
 }
 
 .hero-title{
-    width: 496px;
-        height: 120px;
-        top: 260px;
-        left: 472px;
-        gap: 0px;
-        opacity: 0px;
         font-size: 56px;
         font-weight: 700;
         line-height: 1.07;
@@ -135,14 +95,6 @@ width: 153px;
 }
 
 .hero-button{
-    width: Hug (169px)px;
-        height: Hug (56px)px;
-        top: 428px;
-        left: 636px;
-        padding: 16px 32px 16px 32px;
-        gap: 10px;
-        border-radius: 4px 0px 0px 0px;
-        opacity: 0px;
         background-color: var(--iris);
         color: var(--white);
         font-weight: 500;
@@ -160,24 +112,7 @@ background-color: #404BBF;
     background-color: #404BBF;
 }
 
-.section-1{
-    width: 1128px;
-        height: 104px;
-        top: 792px;
-        left: 156px;
-        gap: 0px;
-        opacity: 0px;
-}
 
-
-.list-section{
-width: Fixed (264px)px;
-    height: Hug (104px)px;
-    top: 792px;
-    left: 156px;
-    gap: 8px;
-    opacity: 0px;
-}
 
 .point-list{
     font-weight: 500;
@@ -189,10 +124,6 @@ width: Fixed (264px)px;
 
 
 .paragraf-list{
-    width: 264px;
-        height: 72px;
-        gap: 0px;
-        opacity: 0px;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -202,21 +133,10 @@ width: Fixed (264px)px;
 }
 
 .section-our-team{
-    width: 1440px;
-        height: 732px;
-        top: 1016px;
-        gap: 0px;
-        opacity: 0px;
         background-color: var(--cloud);
 }
 
 .our-section{
-    width: 162px;
-        height: 40px;
-        top: 1136px;
-        left: 639px;
-        gap: 0px;
-        opacity: 0px;
         font-size: 36px;
         font-weight: 700;
         line-height: 1.11;
@@ -227,23 +147,11 @@ width: Fixed (264px)px;
 }
 
 .list-section-team{
-    width: Hug (264px)px;
-        height: Hug (380px)px;
-        top: 1248px;
-        left: 156px;
-        padding: 0px 0px 32px 0px;
-        gap: 32px;
-        border-radius: 0px 0px 4px 4px;
-        opacity: 0px;
         background-color: var(--white);
 }
 
 
 .partner-team{
-    width: 134px;
-        height: 24px;
-        gap: 0px;
-        opacity: 0px;
         font-size: 20px;
         font-weight: 500;
         line-height: 24px;
@@ -253,10 +161,6 @@ width: Fixed (264px)px;
 }
 
 .job-name{
-    width: 128px;
-        height: 24px;
-        gap: 0px;
-        opacity: 0px;
         font-size: 16px;
         font-weight: 400;
         line-height: 24px;
@@ -265,23 +169,8 @@ width: Fixed (264px)px;
         color: var(--state);
 }
 
-.section{
-    width: 1128px;
-        height: 1000px;
-        top: 1868px;
-        left: 156px;
-        gap: 0px;
-        border: 1px 0px 0px 0px solid 1px var(--Cornflower);
-        opacity: 0px; 
-}
 
 .name-section{
-    width: 218px;
-        height: 40px;
-        top: 1868px;
-        left: 611px;
-        gap: 0px;
-        opacity: 0px;
         font-size: 36px;
         font-weight: 700;
         line-height: 1.11;
@@ -293,49 +182,16 @@ width: Fixed (264px)px;
 
 .list-our-1{
     color: var(--white);
-width: 1128px;
-    height: 420px;
-    top: 1980px;
-    left: 156px;
-    gap: 0px;
-    border: 1px 0px 0px 0px;
-    opacity: 0px;
-    border-width: 1px, 1px, 1px, 1px;
-    
-        border-style: solid;
-    
-        border-color: #E7E9FC;
 }
 
 
 .list-our-2{
     color: var(--white);
-width: 1128px;
-    height: 420px;
-    top: 1980px;
-    left: 156px;
-    gap: 0px;
-    border: 1px 0px 0px 0px;
-    opacity: 0px;
-    border-width: 1px, 1px, 1px, 1px;
-    
-        border-style: solid;
-    
-        border-color: #E7E9FC;
 }
 
-.our-image{
-width: 360px;
-    height: 300px;
-    gap: 0px;
-    opacity: 0px;
-}
+
 
 .piont-our{
-    width: 118px;
-        height: 24px;
-        gap: 0px;
-        opacity: 0px;
         font-size: 20px;
         font-weight: 500;
         line-height: 24px;
@@ -345,10 +201,6 @@ width: 360px;
 }
 
 .paragraf-our{
-    width: 30px;
-        height: 24px;
-        gap: 0px;
-        opacity: 0px;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -358,20 +210,11 @@ width: 360px;
 }
 
 .footer{
-    width: 1440px;
-        height: 312px;
-        top: 2988px;
-        gap: 0px;
-        opacity: 0px;
         background-color: var(--navy-blue);
 }
 
 
 .studio{
-width: 71px;
-    height: 21px;
-    gap: 0px;
-    opacity: 0px;
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
@@ -382,12 +225,6 @@ color: #F4F4FD;
 }
 
 .footer-paragraf{
-    width: 264px;
-        height: 72px;
-        top: 3128px;
-        left: 156px;
-        gap: 0px;
-        opacity: 0px;
             font-size: 16px;
             font-weight: 400;
             line-height: 24px;
