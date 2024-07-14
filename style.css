@@ -9,7 +9,6 @@
 
 body{
     font-family: "Roboto", sans-serif;
-    font-family: "Raleway", sans-serif;
     color: var(--state);
     background-color: var(--white);
 }
@@ -21,39 +20,65 @@ nav{
         border: 1px 0px 0px 0px ;
         opacity: 0px;
         background-color: var(--white);
-        border-bottom: 1px solid #E7E9FC
-        
+        border-bottom: 1px solid #E7E9FC;
 }
 
 .logo{
-    width: Hug (115px)px;
-        height: Fixed (24px)px;
-        top: 24px;
-        left: 156px;
+width: 44px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+        color: var(--iris);
+}
+
+.logo-text-2{
+    width: 71px;
+        height: 21px;
         gap: 0px;
         opacity: 0px;
+        font-family: Raleway;
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 21px;
+            letter-spacing: 0.03em;
+            text-align: left;
+            color: var(--navy-blue);
 }
 
 .list-logo{
-    width: Hug (261px)px;
-        height: Hug (24px)px;
-        top: 24px;
-        left: 347px;
-        gap: 40px;
-        opacity: 0px;
-        color: var(--navy-blue);
+width: Hug (261px)px;
+    height: Hug (24px)px;
+    top: 24px;
+    left: 347px;
+    gap: 40px;
+    opacity: 0px;
 }
 
 .link-logo{
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 24px;
-        letter-spacing: 0.02em;
-        text-align: left;
+    width: 48px;
+        height: 24px;
+        gap: 0px;
+        opacity: 0px;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0.02em;
+            text-align: left;
         color: var(--navy-blue);
 }
 
 .list-contacts{
+width: 153px;
+    height: 24px;
+    top: 24px;
+    left: 940px;
+    gap: 0px;
         font-size: 16px;
         font-weight: 400;
         line-height: 24px;
@@ -72,6 +97,12 @@ nav{
 }
 
 .hero-title{
+    width: 496px;
+        height: 120px;
+        top: 260px;
+        left: 472px;
+        gap: 0px;
+        opacity: 0px;
         font-size: 56px;
         font-weight: 700;
         line-height: 60px;
@@ -103,23 +134,32 @@ nav{
 }
 
 .section-title{
+    width: 264px;
+        height: 24px;
+        gap: 0px;
+        opacity: 0px;
         font-size: 36px;
         font-weight: 700;
         line-height: 40px;
         letter-spacing: 0.02em;
         text-align: center;
+        color: var(--navy-blue);
 }
 
 .list-section{
-    width: Fixed (264px)px;
-        height: Hug (104px)px;
-        top: 792px;
-        left: 156px;
-        gap: 8px;
-        opacity: 0px;
+width: Fixed (264px)px;
+    height: Hug (104px)px;
+    top: 792px;
+    left: 156px;
+    gap: 8px;
+    opacity: 0px;
 }
 
 .piont-list{
+    width: 264px;
+        height: 24px;
+        gap: 0px;
+        opacity: 0px;
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
@@ -129,6 +169,10 @@ nav{
 }
 
 .paragraf-list{
+    width: 264px;
+        height: 72px;
+        gap: 0px;
+        opacity: 0px;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -147,6 +191,12 @@ nav{
 }
 
 .title-team{
+    width: 162px;
+        height: 40px;
+        top: 1136px;
+        left: 639px;
+        gap: 0px;
+        opacity: 0px;
         font-size: 36px;
         font-weight: 700;
         line-height: 40px;
@@ -175,6 +225,10 @@ nav{
 }
 
 .partner-team{
+    width: 134px;
+        height: 24px;
+        gap: 0px;
+        opacity: 0px;
         font-size: 20px;
         font-weight: 500;
         line-height: 24px;
@@ -184,6 +238,10 @@ nav{
 }
 
 .job{
+    width: 128px;
+        height: 24px;
+        gap: 0px;
+        opacity: 0px;
         font-size: 16px;
         font-weight: 400;
         line-height: 24px;
@@ -203,18 +261,18 @@ nav{
 }
 
 .name-section{
+    width: 218px;
+        height: 40px;
+        top: 1868px;
+        left: 611px;
+        gap: 0px;
+        opacity: 0px;
         font-size: 36px;
         font-weight: 700;
         line-height: 40px;
         letter-spacing: 0.02em;
         text-align: center;
         color: var(--navy-blue);
-        width: 218px;
-            height: 40px;
-            top: 1868px;
-            left: 611px;
-            gap: 0px;
-            opacity: 0px;
 }
 
 .list-our-1{
@@ -258,6 +316,10 @@ width: 360px;
 }
 
 .piont-our{
+    width: 118px;
+        height: 24px;
+        gap: 0px;
+        opacity: 0px;
         font-size: 20px;
         font-weight: 500;
         line-height: 24px;
@@ -267,10 +329,38 @@ width: 360px;
 }
 
 .paragraf-our{
+    width: 30px;
+        height: 24px;
+        gap: 0px;
+        opacity: 0px;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
     text-align: left;
     color: var(--state);
+}
+
+footer{
+    width: 1440px;
+        height: 312px;
+        top: 2988px;
+        gap: 0px;
+        opacity: 0px;
+        background-color: var(--navy-blue);
+}
+
+.footer-paragraf{
+    width: 264px;
+        height: 72px;
+        top: 3128px;
+        left: 156px;
+        gap: 0px;
+        opacity: 0px;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0.02em;
+            text-align: left;
+            color: var(--cloud);
 }
