@@ -5,6 +5,7 @@
     --white:#FFFFFF;
     --state:#434455;
     --cloud:#F4F4FD;
+    --font-family: "Raleway", sans-serif;
 }
 
 body{
@@ -43,7 +44,7 @@ width: 44px;
         height: 21px;
         gap: 0px;
         opacity: 0px;
-        font-family: Raleway;
+        font-family:"Raleway",sans-serif;
             font-size: 18px;
             font-weight: 700;
             line-height: 21px;
@@ -75,11 +76,15 @@ width: Hug (261px)px;
 }
 
 .link-logo :hover{
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .link-logo :focus{
-    color: #404bbf;
+    background-color: #404bbf;
+}
+
+.contacts{
+    font-style: normal;
 }
 
 .list-contacts{
@@ -94,6 +99,7 @@ width: 153px;
         letter-spacing: 0.02em;
         text-align: left;
         color: var(--state);
+
 }
 
 .hero-image{
@@ -138,12 +144,14 @@ width: 153px;
 }
 
 .hero-button :hover{
-    color: #404BBF;
+background-color: #4D5AE5;
 }
 
 .hero-button :focus{
-color: #404BBF;
+    background-color: #4D5AE5;
 }
+
+
 
 .section-1{
     width: 1128px;
@@ -155,15 +163,12 @@ color: #404BBF;
 }
 
 .section-title{
-    color: var(--navy-blue);
+    color:#2e2f42;
     width: 264px;
         height: 24px;
         gap: 0px;
         opacity: 0px;
         font-size: 36px;
-        font-weight: 700;
-        line-height: 40px;
-        letter-spacing: 0.02em;
         text-align: center;
         font-weight: 500;
         font-size: 20px;
@@ -375,6 +380,21 @@ width: 360px;
         gap: 0px;
         opacity: 0px;
         background-color: var(--navy-blue);
+}
+
+
+.studio{
+width: 71px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+color: #F4F4FD;
 }
 
 .footer-paragraf{
