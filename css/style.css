@@ -201,7 +201,7 @@ width: Fixed (264px)px;
     color: var(--state);
 }
 
-.section-2{
+.section-our-team{
     width: 1440px;
         height: 732px;
         top: 1016px;
@@ -226,7 +226,7 @@ width: Fixed (264px)px;
         color: var(--navy-blue);
 }
 
-.list-section-2{
+.list-section-team{
     width: Hug (264px)px;
         height: Hug (380px)px;
         top: 1248px;
