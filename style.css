@@ -169,8 +169,12 @@ background-color: #404BBF;
         opacity: 0px;
 }
 
-.section-title{
- 
+.section-name{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
     }
 
 .list-section{
@@ -245,12 +249,6 @@ width: Fixed (264px)px;
         background-color: var(--white);
 }
 
-.team-image{
-    width: 264px;
-        height: 260px;
-        gap: 0px;
-        opacity: 0px;
-}
 
 .partner-team{
     width: 134px;
