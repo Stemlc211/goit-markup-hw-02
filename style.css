@@ -212,7 +212,7 @@ width: Fixed (264px)px;
     color: var(--state);
 }
 
-.section-2{
+.section2{
     width: 1440px;
         height: 732px;
         top: 1016px;
@@ -221,7 +221,7 @@ width: Fixed (264px)px;
         background-color: var(--cloud);
 }
 
-.our-section{
+.oursection{
     width: 162px;
         height: 40px;
         top: 1136px;
@@ -237,7 +237,7 @@ width: Fixed (264px)px;
         color: var(--navy-blue);
 }
 
-.list-section-2{
+.listsection2{
     width: Hug (264px)px;
         height: Hug (380px)px;
         top: 1248px;
@@ -249,8 +249,8 @@ width: Fixed (264px)px;
         background-color: var(--white);
 }
 
-
-.partner-team{
+s
+.partnerteam{
     width: 134px;
         height: 24px;
         gap: 0px;
@@ -263,7 +263,7 @@ width: Fixed (264px)px;
         color: var(--navy-blue);
 }
 
-.job-name{
+.jobname{
     width: 128px;
         height: 24px;
         gap: 0px;
