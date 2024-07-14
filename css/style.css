@@ -169,13 +169,6 @@ background-color: #404BBF;
         opacity: 0px;
 }
 
-.section-name{
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: var(--navy-blue);
-    }
 
 .list-section{
 width: Fixed (264px)px;
@@ -186,18 +179,14 @@ width: Fixed (264px)px;
     opacity: 0px;
 }
 
-.piont-list{
-    width: 264px;
-        height: 24px;
-        gap: 0px;
-        opacity: 0px;
-    font-size: 20px;
+.point-list{
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    text-align: left;
-    color: var(--navy-blue);
-}
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: var(--navy-blue);
+    }
+
 
 .paragraf-list{
     width: 264px;
