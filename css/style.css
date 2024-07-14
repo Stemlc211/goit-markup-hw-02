@@ -239,7 +239,7 @@ width: Fixed (264px)px;
 }
 
 
-.partner-team-1{
+.partner-team{
     width: 134px;
         height: 24px;
         gap: 0px;
@@ -252,7 +252,7 @@ width: Fixed (264px)px;
         color: var(--navy-blue);
 }
 
-.job-name-1{
+.job-name{
     width: 128px;
         height: 24px;
         gap: 0px;
@@ -265,7 +265,7 @@ width: Fixed (264px)px;
         color: var(--state);
 }
 
-.section-3{
+.section{
     width: 1128px;
         height: 1000px;
         top: 1868px;
