@@ -5,7 +5,7 @@
     --white:#FFFFFF;
     --state:#434455;
     --cloud:#F4F4FD;
-    --font-family: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
 }
 
 body{
@@ -75,17 +75,15 @@ width: Hug (261px)px;
         color: var(--navy-blue);
 }
 
-.link-logo :hover{
-    background-color: #404bbf;
+.link-logo:hover{
+    color: #404bbf;
 }
 
-.link-logo :focus{
-    background-color: #404bbf;
-}
 
 .contacts{
     font-style: normal;
 }
+
 
 .list-contacts{
 width: 153px;
@@ -99,7 +97,10 @@ width: 153px;
         letter-spacing: 0.02em;
         text-align: left;
         color: var(--state);
+}
 
+.list-contacts:hover{
+    color: #404bbf;
 }
 
 .hero-image{
@@ -143,13 +144,10 @@ width: 153px;
         cursor: pointer;
 }
 
-.hero-button :hover{
-background-color: #4D5AE5;
+.hero-button:hover{
+background-color: #404BBF;
 }
 
-.hero-button :focus{
-    background-color: #4D5AE5;
-}
 
 
 
@@ -163,19 +161,12 @@ background-color: #4D5AE5;
 }
 
 .section-title{
-    color:#2e2f42;
-    width: 264px;
-        height: 24px;
-        gap: 0px;
-        opacity: 0px;
-        font-size: 36px;
-        text-align: center;
-        font-weight: 500;
-        font-size: 20px;
+    font-weight: 500;
+    font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
-
 .list-section{
 width: Fixed (264px)px;
     height: Hug (104px)px;
@@ -220,7 +211,7 @@ width: Fixed (264px)px;
         background-color: var(--cloud);
 }
 
-.title-team{
+.our-section{
     width: 162px;
         height: 40px;
         top: 1136px;
