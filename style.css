@@ -170,11 +170,11 @@ background-color: #404BBF;
 }
 
 .section-name{
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2e2f42;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: var(--navy-blue);
     }
 
 .list-section{
@@ -212,7 +212,7 @@ width: Fixed (264px)px;
     color: var(--state);
 }
 
-.section2{
+.section-our-1{
     width: 1440px;
         height: 732px;
         top: 1016px;
@@ -221,7 +221,7 @@ width: Fixed (264px)px;
         background-color: var(--cloud);
 }
 
-.oursection{
+.our-section{
     width: 162px;
         height: 40px;
         top: 1136px;
@@ -237,7 +237,7 @@ width: Fixed (264px)px;
         color: var(--navy-blue);
 }
 
-.listsection2{
+.list-section-2{
     width: Hug (264px)px;
         height: Hug (380px)px;
         top: 1248px;
@@ -249,8 +249,8 @@ width: Fixed (264px)px;
         background-color: var(--white);
 }
 
-s
-.partnerteam{
+
+.partner-team{
     width: 134px;
         height: 24px;
         gap: 0px;
@@ -263,7 +263,7 @@ s
         color: var(--navy-blue);
 }
 
-.jobname{
+.job-name{
     width: 128px;
         height: 24px;
         gap: 0px;
